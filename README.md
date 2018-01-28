@@ -26,6 +26,7 @@ p.s.: There are MacOSX/Linux codepaths (mutex, shared memory, ..) in the source 
 # Authors
 
 Pongasoft - Original "hello, world" VST plugin example
+
 bsp - data_bridge fork
 
 
