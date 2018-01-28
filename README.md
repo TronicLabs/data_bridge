@@ -1,3 +1,7 @@
+data_bridge
+===========
+
+
 This is a VST2.4 plugin that can be used to exchange 1..16 stereo channels between different processes / VST hosts.
 
 It has two parameters:
@@ -17,3 +21,14 @@ The source code is based on Pongasoft's "Hello World" VST and adds a lot of code
 You can either use it for the intended purpose, or as a template for your own plugin coding experiments.
 
 p.s.: There are MacOSX/Linux codepaths (mutex, shared memory, ..) in the source but these are completely untested (and may not even compile). Shouldn't be too difficult to get them working, though.
+
+
+# Authors
+
+Pongasoft - Original "hello, world" VST plugin example
+bsp - data_bridge fork
+
+
+# License
+
+Apache 2.0
